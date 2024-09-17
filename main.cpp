@@ -8,7 +8,7 @@
  class Account
  {
  private:
-    long accountNumber;
+  
     string firstName;
     string lastName;
     float balance;
