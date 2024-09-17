@@ -8,10 +8,8 @@
  class Account
  {
  private:
-  
-    string firstName;
-    string lastName;
-    float balance;
+    
+    
     static long NextAccountNumber
  public:
     Account(){}
